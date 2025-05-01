@@ -18,6 +18,29 @@
       color: #333;
     }
   </style>
+  /* Default (light mode) */
+body {
+  background-color: #ffffff;
+  color: #111111;
+  font-family: sans-serif;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+/* Auto dark mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #111111;
+    color: #f4f4f4;
+  }
+
+  a {
+    color: #9ecfff;
+  }
+}
 </head>
 <body>
     <nav>
