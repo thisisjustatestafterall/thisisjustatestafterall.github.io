@@ -1,0 +1,7 @@
+<script>start("/Users/georgeshawel/Desktop/untitled folder/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("about","about",1,96,"96 B",1746068692,"4/30/25, 8:04:52 PM");</script>
+<script>addRow("contact","contact",1,96,"96 B",1746068697,"4/30/25, 8:04:57 PM");</script>
+<script>addRow("work","work",1,96,"96 B",1746068702,"4/30/25, 8:05:02 PM");</script>
+<script>addRow(".DS_Store",".DS_Store",0,8196,"8.0 kB",1746069031,"4/30/25, 8:10:31 PM");</script>
+<script>addRow("index.html","index.html",0,0,"0 B",1746068713,"4/30/25, 8:05:13 PM");</script>
