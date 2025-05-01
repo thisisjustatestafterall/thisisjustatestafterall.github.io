@@ -1,12 +1,9 @@
-
 body {
   background-color: #ffffff;
   color: #111111;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14pt;
-  max-width: 600px;
-  margin: 40px auto;
-  padding: 0 20px;
+  padding: 20px;
   line-height: 1.6;
 }
 
