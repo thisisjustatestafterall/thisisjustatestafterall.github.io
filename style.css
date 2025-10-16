@@ -1,14 +1,14 @@
 body {
   background-color: #ffffff;
   color: #111111;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 14pt;
   padding: 20px;
   line-height: 1.6;
 }
 
 nav a {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 14pt;
   font-weight: normal;
   text-decoration: none;
